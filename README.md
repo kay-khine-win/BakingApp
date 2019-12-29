@@ -15,7 +15,7 @@ The user can alo read selected recipe as a home screen widget.
 
 ## Libraries
 	* picasso
-	* exoplayer
+	* ExoPlayer
 	* retrofit2
 	* butterknife
 
